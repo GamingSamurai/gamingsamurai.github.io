@@ -1,1 +1,4 @@
+name: Gaming Samurai at Github
 theme: jekyll-theme-midnight
+
+permalink: /blog/:year/:month/:day/:title
